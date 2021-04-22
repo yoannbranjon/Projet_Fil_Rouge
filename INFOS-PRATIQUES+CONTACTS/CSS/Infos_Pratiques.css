@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.infosPratiquesText {
+
+    margin-top: 10vw;
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    
+}
